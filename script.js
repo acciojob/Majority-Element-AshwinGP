@@ -18,6 +18,5 @@ for(var i=0;i<n.length;i++){
 } 
   
 var flor=Math.floor(n.length/2);
-
 	return ctt;
 }
